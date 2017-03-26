@@ -66,7 +66,7 @@ ICONS = [
     ('github', 'https://github.com/njcx'),
 ]
 
-PYGMENTS_STYLE = 'monokai'
+PYGMENTS_STYLE = 'emacs'
 RFG_FAVICONS = True
 
 # Default value is ['index', 'tags', 'categories', 'authors', 'archives']

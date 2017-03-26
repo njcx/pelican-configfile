@@ -41,6 +41,16 @@ Xfree86服务器的实现包括两个部分，一部分是和显卡直接打交�
 VESA(Video Electronics Standards Association)
 VGA (Video Graphics Array)
 fbdev (FrameBuffer Device)
+
+```Python
+import django
+```
+```Java
+Sys.out.print()
+```
+```c
+#include()
+```
 等
 
 linux字符界面在高分辨率下，启动时会有一个小企鹅logo，这个logo就是用framebuffer功能写上屏幕的.
