@@ -45,7 +45,7 @@ Status: draft
 ---
 ## 自我简介
 
-自大学开始，先后学习了C语言，Java，Python，Golang，独爱Python的优雅与简介，并以Python为主力开发语言，Linux为生产平台，坚持学习下来，收获颇丰，正是这段自学经历锻炼了很好的自学能力，后加入学校实验室，加强了我团队合作能力，熟悉了项目开发流程和团队协同工作，有很好的团队合作意识，能很好利用baidu,google解决问题，但是目前还是觉得自己能力不够，对问题整体需求把握不够，前端能力较差，算法能力较差，希望能通过努力学习和自我激励弥补自己的缺点
+自大学开始，先后学习了C语言，Java，Python，Golang，独爱Python的优雅与简介，并以Python为主力开发语言，Linux为生产平台，坚持学习下来，收获颇丰，正是这段自学经历锻炼了很好的自学能力，后加入学校实验室，加强了团队合作能力，熟悉了项目开发流程和团队协同工作，有很好的团队合作意识，能很好利用baidu,google解决问题，有良好的逻辑思维能力，喜好新事物，对新技术比较敏感，希望能在日后通过继续学习更进一步
 
 ---
 ## 技术能力
@@ -67,9 +67,9 @@ Status: draft
 ---
 ## 开源项目
 
- - [ruanyifengspy](https://github.com/njcx/ruanyifengspy)：https://github.com/njcx/ruanyifengspy 
+ - [jobbolespy](https://github.com/njcx/jobbolespy)：https://github.com/njcx/jobbolespy
  
-  通过解析http响应，爬取阮一峰blog相关内容并保存pdf
+  通过解析http响应，爬取伯乐在线相关内容并保存pdf
   
  - [njcx-as](https://github.com/njcx/njcx-as):  https://github.com/njcx/njcx-as 
  
@@ -107,8 +107,9 @@ flask写的个人博客
 - [Nginx 性能优化技巧](http://www.njcxs.cc/posts/A8.html)
 - [Python的面向对象编程](http://www.njcxs.cc/posts/B10.html)
 - [Python的多线程](http://www.njcxs.cc/posts/B8.html)
-- [Python的多进程加协程](http://www.njcxs.cc/posts/C2.html)
+- [Python的多进程](http://www.njcxs.cc/posts/C2.html)
 - [使用PyPy性能调优](http://www.njcxs.cc/posts/C3.html)
+- [Python的协程以及通过多进程加协程进行性能调优](http://www.njcxs.cc/posts/C4.html)
 ---
 ## 技能列表
 
