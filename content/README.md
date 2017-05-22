@@ -102,6 +102,7 @@ flask写的个人博客
 - [MySQL主从复制解决方案实践](http://www.njcxs.cc/posts/A2.html)
 - [Nginx 作为Web缓存容器应用实践](http://www.njcxs.cc/posts/A6.html)
 - [docker 常用命令记录](http://www.njcxs.cc/posts/B4.html)
+- [docker应用实践](http://www.njcxs.cc/posts/B3.html)
 - [Linux 运维常用命令总结](http://www.njcxs.cc/posts/B1.html)
 - [centos6.8 下lvs+keepalived高并发实践](http://www.njcxs.cc/posts/A1.html)
 - [Nginx 性能优化技巧](http://www.njcxs.cc/posts/A8.html)
