@@ -29,7 +29,7 @@ Status: draft
  - http://njcx.oschina.io
  - http://njcx.coding.me
  
- [Github](http://github.com/njcx)：
+[Github](http://github.com/njcx)：
  
  - http://github.com/njcx 
  
@@ -37,7 +37,7 @@ Status: draft
  
  - https://www.zhihu.com/people/njcxs
  
- [知乎专栏](https://zhuanlan.zhihu.com/pythons)：
+[知乎专栏](https://zhuanlan.zhihu.com/pythons)：
  
  - https://zhuanlan.zhihu.com/pythons
 
