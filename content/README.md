@@ -23,40 +23,44 @@ Status: draft
  - 本科/黄山学院计算机系（二本） 
  - 毕业时间：2018年
  
- 技术博客：
+ [技术博客](http://www.njcxs.cc )：
  
  -  http://www.njcxs.cc 
  - http://njcx.oschina.io
  - http://njcx.coding.me
  
- Github：
+ [Github](http://github.com/njcx)：
  
  - http://github.com/njcx 
  
- 知乎：
+[ 知乎]( https://www.zhihu.com/people/njcxs)：
  
  - https://www.zhihu.com/people/njcxs
+ 
+ [知乎专栏](https://zhuanlan.zhihu.com/pythons)：
+ 
+ - https://zhuanlan.zhihu.com/pythons
 
 期望：
 
-- 期望职位：Python后端程序员，爬虫程序员
+- 期望职位：Python后端程序员、爬虫程序员、自动化运维、云计算相关
 - 期望薪资：月薪3k~6k
 - 期望城市：上海
 ---
 ## 自我简介
 
-自大学开始，先后学习了C语言，Java，Python，Golang，独爱Python的优雅与简介，并以Python为主力开发语言，Linux为生产平台，坚持学习下来，收获颇丰，正是这段自学经历锻炼了很好的自学能力，后加入学校实验室，加强了团队合作能力，熟悉了项目开发流程和团队协同工作，有很好的团队合作意识，能很好利用baidu,google解决问题，有良好的逻辑思维能力，喜好新事物，对新技术比较敏感，希望能在日后通过继续学习更进一步
+自大学开始，先后学习了C语言、Java、Python、Golang，独爱Python的优雅与简介，并以Python为主力开发语言，Linux为生产平台，坚持学习下来，收获颇丰，正是这段自学经历锻炼了很好的自学能力，后加入学校实验室，加强了团队合作能力，熟悉了项目开发流程和团队协同工作，有很好的团队合作意识，能很好利用baidu、google解决问题，有良好的逻辑思维能力，喜好新事物，对新技术比较敏感，希望能在日后通过继续学习更进一步
 
 ---
 ## 技术能力
 
 - 专注并热爱于Python后台开发，爬虫编写，了解JavaScript、CSS、HTML
-- 熟练使用常见Linux发行版本，了解常见服务搭建与故障排除，能以Linux为开发环境正常工作
+- 熟练常见的Linux发行版本，了解常见服务搭建与故障排除，能以Linux为开发环境正常工作
 - 了解常用Python第三方库和Web框架的使用，有相关类库使用经验（django,flask,paramiko,requests,scrapy)
 - 了解 Linux集群，了解常见web架构，了解web分布式环境搭建，有相关项目搭建经验（Lvs+keepalived）
-- 熟悉git版本控制系统的使用， 在github，coding，开源中国上有开源项目
-- 了解常用数据库的使用，有MySQL,Redis使用经验
-- 了解docker的使用,可以用docker解决web集群部署问题
+- 熟悉git版本控制系统的使用， 在github、coding、开源中国上有开源项目
+- 了解常用数据库的使用，有MySQL、NoSQL(Redis、MongoDB)使用经验
+- 了解docker、kvm的使用
 ---
 ## 个人经历
 
@@ -114,7 +118,7 @@ flask写的个人博客
 ---
 ## 技能列表
 
-以下均为我用过或正在使用的工具或者库：
+以下均为我用过或正在使用的编程语言、工具或者库：
 
 - 编程语言：C/Python/JAVA/Golang
 - Web框架：Django/Flask
@@ -136,7 +140,7 @@ flask写的个人博客
 - 像计算机科学家一样思考Python
 - Python Web开发实战
 - Flask Web开发 基于Python的Web开发实战
-- Django book(翻译版）
+- Django book
 - MySQL必知必会
 - Linux运维之道
 - 高性能Linux服务器构建实战
