@@ -58,13 +58,13 @@ Status: draft
 - 熟练常见的Linux发行版本，了解常见服务搭建与故障排除，能以Linux为开发环境正常工作
 - 了解常用Python第三方库和Web框架的使用，有相关类库使用经验（django,flask,paramiko,requests,scrapy)
 - 了解 Linux集群，了解常见web架构，了解web分布式环境搭建，有相关项目搭建经验（Lvs+keepalived）
-- 熟悉git版本控制系统的使用， 在github、coding、开源中国上有开源项目
+- 熟悉git版本控制系统的使用， 在Github、Coding、开源中国(码云）上有开源项目
 - 了解常用数据库的使用，有MySQL、NoSQL(Redis、MongoDB)使用经验
 - 了解docker、kvm的使用
 ---
 ## 个人经历
 
-- 自高中接触开源文化，最早使用过 RedFlag 6.0系统，Ubuntu12.04,并以此打开开源世界大门
+- 自高中接触开源文化，最早使用过 RedFlag 6.0系统、Ubuntu12.04,并以此打开开源世界大门
 - 大一开始Linux深入学习，并用Linux 搭建一个线上博客
 - 大二当上计算机协会组长，致力于开源文化推广与计算机基础教学
 - 大三用django 做了一个网站，独立创业，一人把前端后端运维架构全干了
