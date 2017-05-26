@@ -55,11 +55,12 @@ Status: draft
 ## 技术能力
 
 - 专注并热爱于Python后台开发，爬虫编写，了解JavaScript、CSS、HTML
-- 熟练常见的Linux发行版本，了解常见服务搭建与故障排除，能以Linux为开发环境正常工作
-- 了解常用Python第三方库和Web框架的使用，有相关类库使用经验（django,flask,paramiko,requests,scrapy)
-- 了解 Linux集群，了解常见web架构，了解web分布式环境搭建，有相关项目搭建经验（Lvs+keepalived）
+- 熟悉常用Python标准库和常用的Web框架的使用，了解常用的第三方库的使用
+- 熟悉常见的Linux发行版本，了解shell编程,了解常见服务搭建与故障排除，能以Linux为开发环境正常工作
+- 熟悉Linux分布式生产环境部署，了解常见Web架构，了解Web分布式生产环境搭建，有相关项目搭建经验（Lvs+keepalived）
+- 熟悉TCP/IP协议,了解基本的网络安全知识
 - 熟悉git版本控制系统的使用， 在Github、Coding、开源中国(码云）上有开源项目
-- 了解常用数据库的使用，有MySQL、NoSQL(Redis、MongoDB)使用经验
+- 了解常用数据库的使用，了解MySQL、NoSQL(Redis、MongoDB)的使用
 - 了解docker、kvm的使用
 ---
 ## 个人经历
@@ -123,8 +124,8 @@ flask写的个人博客
 - 编程语言：C/Python/JAVA/Golang
 - Web框架：Django/Flask
 - 爬虫框架：Scrapy
-- 第三方库：requests/MySQLdb/SQLAlchemy/Pandas/Numpy/BeautifulSoup4
-- 数据库相关：MySQL/SQLite/Redis
+- 第三方库：requests/MySQLdb/SQLAlchemy/BeautifulSoup4
+- 数据库相关：MySQL/SQLite/Redis/MongoDB
 - 版本管理 ：Git
 - 包管理：pip
 - 系统平台： Centos6.8/Debian 8.8/Ubuntu Server 16.04
