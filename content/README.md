@@ -8,13 +8,6 @@ Authors: nJcx
 Summary:简历
 Status: draft
 
-## 联系方式
-- 手机：18855999143
-- Email：njcx86@gmail.com
-- QQ :1666276469
-- 微信号: lsh208512
-
----
 
 ## 个人信息
 简介:
@@ -45,7 +38,7 @@ Status: draft
 
 - 期望职位：Python后端程序员、爬虫程序员、自动化运维、云计算相关
 - 期望薪资：月薪3k~6k
-- 期望城市：上海
+- 期望城市：上海、杭州、成都
 ---
 ## 自我简介
 
@@ -58,7 +51,7 @@ Status: draft
 - 熟悉常用Python标准库和常用的Web框架的使用，了解常用的第三方库的使用
 - 熟悉常见的Linux发行版本，了解shell编程,了解常见服务搭建与故障排除，能以Linux为开发环境正常工作
 - 熟悉Linux分布式生产环境部署，了解常见Web架构，了解Web分布式生产环境搭建，有相关项目搭建经验（Lvs+keepalived）
-- 熟悉TCP/IP协议,了解基本的网络安全知识
+- 熟悉TCP/IP、HTTP协议,了解基本的网络安全知识
 - 熟悉git版本控制系统的使用， 在Github、Coding、开源中国(码云）上有开源项目
 - 了解常用数据库的使用，了解MySQL、NoSQL(Redis、MongoDB)的使用
 - 了解docker、kvm的使用
@@ -105,17 +98,15 @@ flask写的个人博客
 ## 技术文章
 - [Nginx 作为负载均衡服务器应用实践](http://www.njcxs.cc/posts/A7.html)
 - [MySQL主从复制解决方案实践](http://www.njcxs.cc/posts/A2.html)
-- [Nginx 作为Web缓存容器应用实践](http://www.njcxs.cc/posts/A6.html)
 - [docker 常用命令记录](http://www.njcxs.cc/posts/B4.html)
 - [docker应用实践](http://www.njcxs.cc/posts/B3.html)
 - [Linux 运维常用命令总结](http://www.njcxs.cc/posts/B1.html)
 - [centos6.8 下lvs+keepalived高并发实践](http://www.njcxs.cc/posts/A1.html)
-- [Nginx 性能优化技巧](http://www.njcxs.cc/posts/A8.html)
 - [Python的面向对象编程](http://www.njcxs.cc/posts/B10.html)
-- [Python的多线程](http://www.njcxs.cc/posts/B8.html)
 - [Python的多进程](http://www.njcxs.cc/posts/C2.html)
 - [使用PyPy性能调优](http://www.njcxs.cc/posts/C3.html)
-- [Python的协程以及通过多进程加协程进行性能调优](http://www.njcxs.cc/posts/C4.html)
+- [Redis 入门与实践](http://www.njcxs.cc/posts/C6.html)
+- [MongoDB 学习与实践](http://www.njcxs.cc/posts/C5.html)
 ---
 ## 技能列表
 
