@@ -4,7 +4,7 @@ from __future__ import unicode_literals
 
 AUTHOR = 'nJcx'
 SITENAME = 'nJcx\'s Blog'
-SITEURL = 'http://www.njcxs.cc'  # Intentionally left blank, see ./publishconf.py
+SITEURL = 'http://www.njcx.site'  # Intentionally left blank, see ./publishconf.py
 
 PATH = 'content'
 
@@ -52,9 +52,9 @@ BOOTSTRAPIFY = {
 
 THEME = '/home/njcx/githubblog/alchemy'
 
-SITESUBTITLE = 'Linux,Python,Java 未来从业人员，内心略文艺，会做饭，烧菜,还会修电脑'
+SITESUBTITLE = '身高1.85，单身，魔都，擅长Python,Golang,很重要的一件事是，单身'
 SITEIMAGE = '/images/profile.png width=200 height=200'
-DESCRIPTION = 'Linux重度用户，Python，Java从业人员，个人小博客，欢迎访问'
+DESCRIPTION = 'Linux重度用户，Python从业人员，个人小博客，欢迎访问'
 
 LINKS = (
     ('知乎', 'https://www.zhihu.com/people/njcxs'),
