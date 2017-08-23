@@ -1,4 +1,4 @@
-Title: Python 内置方法详解
+Title: Python functools详解
 Date: 2017-05-01 12:40
 Modified: 2017-05-01 12:40
 Category: Python
