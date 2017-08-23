@@ -18,6 +18,11 @@ debian/ubuntu： sudo apt-get install pypy pypy-dev pypy-lib -y
 red hat/centos : yum -y install pypy-libs pypy pypy-devel
 
 ```
+```python
+ubuntu ppa:
+sudo add-apt-repository ppa:pypy/ppa
+sudo apt-get update
+```
 ####使用以及注意事项
 PyPy毕竟不是亲娘生的，相比CPython，PyPy对C拓展支持存在兼容性问题，如果项目使用的是纯Python写的，那么就可以大胆使用PyPy了，主流的web框架不会存在问题，主要是一些CPU密集型类库容易出问题，比如一些科学计算的库。PyPy的解释器一般位于/usr/bin/pypy,使用pip的时候，可以通过 pypy -m pip install xxx
 

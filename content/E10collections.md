@@ -5,5 +5,5 @@ Category: Python
 Tags: Python
 Slug: E10
 Authors: nJcx
-Summary: Python 内置方法详解
+Summary: Python collections详解
 ####开始
