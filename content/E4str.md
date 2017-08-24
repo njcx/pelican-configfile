@@ -35,10 +35,10 @@ str.index       str.lower       str.split
 - center
 - count
 - decode 
-- endswith
+- endswith  endswith(obj, beg=0, end=len(string)) 检查字符串是否以 obj 结束，如果beg 或者 end 指定则检查指定的范围内是否以 obj 结束，如果是，返回 True,否则返回 False.
 - expandtabs
-- find 
-- format
+- find     find(str, beg=0, end=len(string)),方法检测字符串中是否包含子字符串 str ，如果指定 beg（开始） 和 end（结束） 范围，则检查是否包含在指定范围内，如果包含子字符串返回开始的索引值，否则返回-1
+- format  
 - index
 - join
 - ljust
