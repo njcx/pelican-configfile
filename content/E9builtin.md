@@ -6,5 +6,4 @@ Tags: Python
 Slug: E9
 Authors: nJcx
 Summary: Python 内置方法详解
-Status: draft
 ####开始
