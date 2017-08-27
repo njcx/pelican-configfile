@@ -24,7 +24,7 @@ sudo add-apt-repository ppa:pypy/ppa
 sudo apt-get update
 ```
 ####使用以及注意事项
-PyPy毕竟不是亲娘生的，相比CPython，PyPy对C拓展支持存在兼容性问题，如果项目使用的是纯Python写的，那么就可以大胆使用PyPy了，主流的web框架不会存在问题，主要是一些CPU密集型类库容易出问题，比如一些科学计算的库。PyPy的解释器一般位于/usr/bin/pypy,使用pip的时候，可以通过 pypy -m pip install xxx
+PyPy毕竟不是亲娘生的，相比CPython，PyPy对C拓展支持存在兼容性问题，如果项目使用的是纯Python写的，那么就可以大胆使用PyPy了，主流的web框架不会存在问题，主要是一些CPU密集型类库容易出问题，比如一些科学计算的库，因为这种类型的库一般含有C源码，不过，这种兼容性现在在慢慢改善。PyPy的解释器一般位于/usr/bin/pypy,使用pip的时候，可以通过 pypy -m pip install xxx
 
 ####性能测试
 由于PyPy加持JIT，会在频繁使用循环和多次调用同一个函数的时候爆发出异样的风采，下面简单测一下性能
