@@ -1,8 +1,8 @@
 Title: Tornado 学习笔记
 Date: 2017-04-12 10:20
 Modified: 2017-04-12 10:20
-Category: Python
-Tags: Python
+Category: Tornado
+Tags: Tornado
 Slug: D7
 Authors: nJcx
 Summary: tornado 学习笔记

@@ -1,8 +1,8 @@
 Title: 利用Django实现RESTful API
 Date: 2017-04-09 10:20
 Modified: 2017-04-09 10:20
-Category: Python
-Tags: Python
+Category: Django
+Tags: Django
 Slug: D4
 Authors: nJcx
 Summary: 利用Django实现RESTful API,实践记录如下

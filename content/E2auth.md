@@ -1,8 +1,8 @@
 Title: Django的认证
 Date: 2017-04-21 10:30
 Modified: 2017-04-21 10:30
-Category: Python
-Tags: Python
+Category: Django
+Tags: Django
 Slug: E2
 Authors: nJcx
 Summary: Django的认证系统介绍

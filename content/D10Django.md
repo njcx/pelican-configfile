@@ -1,8 +1,8 @@
 Title: Python Web项目搭建实战-Django篇
 Date: 2017-04-15 10:20
 Modified: 2017-04-15 10:20
-Category: Python
-Tags: Python
+Category: Django
+Tags: Django
 Slug: D10
 Authors: nJcx
 Summary: Python Web项目搭建过程记录

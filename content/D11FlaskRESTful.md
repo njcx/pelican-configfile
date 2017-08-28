@@ -1,8 +1,8 @@
 Title: Flask-RESTful 探秘
 Date: 2017-04-16 10:20
 Modified: 2017-04-16 10:20
-Category: Python
-Tags: Python
+Category: Flask
+Tags: Flask
 Slug: D11
 Authors: nJcx
 Summary: Flask-RESTful 探秘
