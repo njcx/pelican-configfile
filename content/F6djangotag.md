@@ -1,9 +1,9 @@
-Title: Django的模板内置过滤器详解
-Date: 2017-04-18 11:20
-Modified: 2017-04-18 11:20
-Category: Python
-Tags: Python
-Slug: F5
+Title: Django的模板内置标签详解
+Date: 2017-04-18 12:20
+Modified: 2017-04-18 12:20
+Category: Django
+Tags: Django
+Slug: F6
 Authors: nJcx
 Summary: Django的模板内置过滤器详解
 
