@@ -4,7 +4,7 @@ from __future__ import unicode_literals
 
 AUTHOR = 'nJcx'
 SITENAME = 'nJcx\'s Blog'
-SITEURL = 'http://www.njcx.site'  # Intentionally left blank, see ./publishconf.py
+SITEURL = 'http://www.njcx.bid'  # Intentionally left blank, see ./publishconf.py
 
 PATH = 'content'
 
