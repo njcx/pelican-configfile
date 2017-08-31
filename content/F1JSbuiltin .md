@@ -6,7 +6,7 @@ Tags: JavaScript
 Slug: F1
 Authors: nJcx
 Summary: JavaScript 内建方法详解
-
+Status: draft
 ####开始
 
 ####介绍

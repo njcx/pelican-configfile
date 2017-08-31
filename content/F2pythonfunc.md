@@ -6,7 +6,7 @@ Tags: Python
 Slug: F2
 Authors: nJcx
 Summary: Python 特殊方法详解
-
+Status: draft
 ####开始
 
 ####介绍
